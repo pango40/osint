@@ -1,3 +1,4 @@
+
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 # << CODE BY HUNX04 (UPDATED BY DEXUS EX SOPHIA)
@@ -437,7 +438,7 @@ def username_tracker():
     print(f"{Colors.WHITE}├─ Whatsmyname: {Colors.CYAN}https://whatsmyname.app/?q={username}{Colors.RESET}")
     print(f"{Colors.WHITE}├─ Namechk: {Colors.CYAN}https://namechk.com/?u={username}{Colors.RESET}")
     print(f"{Colors.WHITE}├─ Sherlock: {Colors.CYAN}https://github.com/sherlock-project/sherlock{Colors.RESET}")
-    @with_banner
+@with_banner
 def system_info():
     print(f"{Colors.YELLOW}[*] System Information{Colors.RESET}")
     print(f"{Colors.CYAN}════════════════════════════════════════════{Colors.RESET}")
